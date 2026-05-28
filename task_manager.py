@@ -1,16 +1,12 @@
 """
 
-This program allows users to create, list, update, and delete tasks within task manager.
-
-URL: https://roadmap.sh/projects/task-tracker
+This program allows users to create, list, update, and delete tasks within the CLI.
 
 Created by Ivan Mann
+Date: 05-28-2026
 
-
-
-TODO: Add Status. ("todo, in-progress, done")
 """
-import random
+
 import time
 import json
 import sys
