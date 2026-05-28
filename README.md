@@ -1,0 +1,1 @@
+This is a task manager I made using python (mostly as a learning project). It allows users to create, list, update, and delete tasks within the CLI. I was moslty inspired by the roadmap.sh task tracker project.
